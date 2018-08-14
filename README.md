@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Flask Webapp for Openshift
 ### Send Whatsapp messages using Yowsup library
 
@@ -6,3 +7,6 @@
 3. Modify the `flaskapp.py` to replace the Expected token, Phone number and Password.
 4. Upload the repository to Openshift.
 5. Get the Openshift URL and use the same in your Application to send Whatsapp messages. Refer [this article](https://inteygrate.com/whatsapp-salesforce-integration-the-code) for the Salesforce Apex code.
+=======
+# salesforceWhatsapp
+>>>>>>> origin/master
